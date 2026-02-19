@@ -3,8 +3,9 @@ name: self-deprecation-pivot
 description: Reframe content to make yourself the target or fool instead of others, maintaining humor while removing meanness and creating universal relatability.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4931
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
